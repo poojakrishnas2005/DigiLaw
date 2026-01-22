@@ -1,7 +1,8 @@
 # ⚖️ DigiLaw - Empowering Legal Access
 
-DigiLaw is a mobile-first platform designed to simplify legal information and resources. This project was built exclusively using **Google Technologies** to ensure high scalability, zero-infrastructure maintenance, and seamless mobile delivery.
 
+DigiLaw is a mobile-first platform designed to simplify legal information and resources. This project was built exclusively using **Google Technologies** to ensure high scalability, zero-infrastructure maintenance, and seamless mobile delivery.
+##  Live Demo: [https://digilaw-f9d0e.web.app](https://digilaw-f9d0e.web.app)
 ##  Built with Google Technologies
 We leveraged the **Google Cloud Ecosystem** to build a robust, serverless application:
 
